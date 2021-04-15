@@ -1,0 +1,13 @@
+{
+  "name": "platform-checker",
+  "version": "1.0.0",
+  "author": "Joakim L. Christiansen (https://joakimch.github.io)",
+  "license": "MIT",
+  "type": "module",
+  "main": "source/platformChecker.js",
+  "files": ["source/*"],
+  "repository": "github:JoakimCh/platform-checker",
+  "funding": "https://joakimch.github.io/funding.html",
+  "description": "An ES module for checking which \"computing platform\" the script is executed in. For now it can check if it's running in Node.js, Deno or the browser.",
+  "keywords": ["platform", "runtime", "check", "deno", "browser", "nodejs"]
+}
